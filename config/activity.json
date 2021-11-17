@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Romaka_V",
+      "uniqueId": "1404b6d3-c666-4e03-9e9e-612efa0f9372"
+    },
+    "time": 1636658864323,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/kGY7V165De"
+    }
+  }
+]
